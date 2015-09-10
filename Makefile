@@ -1,6 +1,6 @@
 OUTPUT_DIR=build
 TARGET=$(OUTPUT_DIR)/hs-commit-msg
-SOURCES=Main.hs
+SOURCES=src/Main.hs
 
 default: clean build
 
